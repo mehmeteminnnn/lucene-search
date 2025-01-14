@@ -30,6 +30,8 @@ Projenin varsayılan olarak hangi CSV dosyasını kullanacağını belirlemek i�
 
 
 BufferedReader br = new BufferedReader(new FileReader("path/to/your/csvfile.csv"));
+
+
 5.Bu ksıımdan kendi csvnize göre sorgu atıp sonuçlarına bakın
 public static void main(String[] args) throws Exception {
         // Önceki dizini kullan
